@@ -7,3 +7,49 @@
 .height{
     height: 100px;
 }
+.nheight{
+    height:300px;
+}
+.aheight{
+    height:200px;
+}
+
+.img-con{
+    position: relative;
+}
+.img-ell-abs{
+    position: absolute;left: 25px;
+}
+
+.img-inner-con{
+    margin-top: -200px;
+}
+.ano-height{
+    margin-top: 20px;
+    height:80px;
+}
+
+.bw-ish{
+    background: #E5F0FD;
+}
+
+.bw-linish{
+    background: linear-gradient(0deg, rgba(241, 246, 253, 0) 1.63%, #F1F6FD 20.5%, #F1F6FD 58.57%, #FFFFFF 100%);
+}
+
+.foot-con-height{
+    height: 50px;
+}
+
+.footer-dark-bg{
+    background: #2B2B39;
+}
+
+
+.footer-dark-bg:focus{
+    background: #2B2B39;
+}
+
+.footer-btm-dbg{
+    background: #20202D;
+}
