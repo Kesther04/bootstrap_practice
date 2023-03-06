@@ -53,3 +53,11 @@
 .footer-btm-dbg{
     background: #20202D;
 }
+
+input[placeholder="Search"]{
+    color: white;
+}
+
+.bf-foot{
+    background: #181C26;
+}
