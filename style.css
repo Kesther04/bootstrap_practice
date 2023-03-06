@@ -8,7 +8,7 @@
     height: 100px;
 }
 .nheight{
-    height:300px;
+    height:350px;
 }
 .aheight{
     height:200px;
@@ -19,6 +19,10 @@
 }
 .img-ell-abs{
     position: absolute;left: 25px;
+}
+
+.img-el-tp{
+    position: absolute;top:0px;
 }
 
 .img-inner-con{
@@ -60,4 +64,13 @@ input[placeholder="Search"]{
 
 .bf-foot{
     background: #181C26;
+}
+
+.clip-path{
+    clip-path:polygon(
+        0 0,
+        100% 0,
+        100% 55%,
+        0 55%
+        );
 }
